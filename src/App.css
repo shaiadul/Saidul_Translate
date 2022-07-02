@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.head{
+  font-size: 28px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 900;
+  text-shadow:  3px 2px 4px blueviolet;
+}
+.select{
+  font-size: 15px;
+  border: 2px solid blueviolet;
+  border-radius: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  outline: none;
+}
+.textarea{
+  font-size: 15px;
+  border: 2px solid blueviolet;
+  border-bottom-left-radius: 25px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+  outline: none;
+  padding: 9px;
+}
+.title{
+  font-size: 15px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 5px;
+  font-weight: 900;
+}
+div{
+  padding :10px;  
+}
+select{
+  padding: 5px;
+}
+.button{
+  font-size: 20px;
+  border: 2px solid blueviolet;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  outline: none;
+  padding: 5px;
+}
+.button:hover{
+   box-shadow: -4px -3px 10px 5px rgba(0,0,0,0.35);
+}
