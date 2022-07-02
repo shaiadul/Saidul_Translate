@@ -1,8 +1,8 @@
 
-## Simple Translate Application 
-## Live Site Link: https://to-do-appex.netlify.app/home
+## Simple WSTW Translate Application 
+## Live Site Link: https://translate-saidul-404.netlify.app/
 
-### Description: Use some of API, Fllow youtube video 
+### Description: Use some of API, Fllow youtube video . Not responsive ! in this site you can translate some of language . sadly say that Bangla is none of them . in Future i try to use Better api for this project .
 
 ## Tecnolozy and Tools: 
 * React_Js >  HTML-5 > CSS > API !!!
